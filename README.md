@@ -20,3 +20,6 @@
 
 Apaixonado por tecnologia e em busca de aprimoramento constante
 
+![Snake animation](https://github.com/joaovmar/joaovmar/blob/output/github-contribution-grid-snake.svg)
+
+
